@@ -1,0 +1,20 @@
+patch: # 如果文件里有这个语句，就不用再输入了
+  preset_color_schemes/appsored:
+    author: "Astrian Zheng"
+    back_color: 0x2824C8
+    border_height: 6
+    border_width: 6
+    candidate_format: "%c. %@ "
+    candidate_text_color: 0xC5C3F2
+    comment_text_color: 0xFFFFFF
+    corner_radius: 6
+    font_point: 16
+    hilited_candidate_back_color: 0x2824C8
+    hilited_candidate_label_color: 0xFFFFFF
+    hilited_candidate_text_color: 0xFFFFFF
+    hilited_text_color: 0xFFFFFF
+    horizontal: true
+    label_color: 0xC5C3F2
+    label_font_point: 12
+    name: "AppSo 红"
+    text_color: 0xC5C3F2
