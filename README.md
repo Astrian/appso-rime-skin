@@ -7,4 +7,4 @@
 - 打开或新建 `squirrel.custom.yaml`（鼠须管）或 `weasel.custom.yaml`（小狼毫）
 - 在最后一行起一行
 - 将想要的皮肤复制粘贴进去
-- 找到 `style\color_scheme: appsored` 一行，修改为 `appsored` 或 `ifanrblack`（具体视你复制的皮肤而定）
+- 找到 `style/color_scheme: appsored` 一行，修改为 `appsored` 或 `ifanrblack`（具体视你复制的皮肤而定）
